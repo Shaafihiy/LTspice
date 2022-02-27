@@ -1,0 +1,145 @@
+Questionable use of curly braces in ".model sir870adp vdmos(rg=3 vto=2.9 rd=3.2m rs=1.5m rb={m} kp=100 mtriode=1.85 cgdmax=1.4n cgdmin=70p cgs=2.9n cjo=3.6n m=.4 a=.7 vj=.7 lambda=20m is=3p ksubthres=.08 mfg=siliconix vds=100 ron=5.5m qg=53.5n)"
+    Error: undefined symbol in: "[m]"
+Circuit: * C:\Users\ADMIN\Desktop\LTSpice\ring_oscillator.asc
+
+WARNING: Node NC_02 is floating.
+WARNING: Node X1:NC_01 is floating.
+WARNING: Node X1:NC_02 is floating.
+WARNING: Node NC_04 is floating.
+WARNING: Node X2:NC_01 is floating.
+WARNING: Node X2:NC_02 is floating.
+WARNING: Node NC_06 is floating.
+WARNING: Node X3:NC_01 is floating.
+WARNING: Node X3:NC_02 is floating.
+WARNING: Node NC_08 is floating.
+WARNING: Node X4:NC_01 is floating.
+WARNING: Node X4:NC_02 is floating.
+WARNING: Node NC_10 is floating.
+WARNING: Node X5:NC_01 is floating.
+WARNING: Node X5:NC_02 is floating.
+WARNING: Node NC_12 is floating.
+WARNING: Node X6:NC_01 is floating.
+WARNING: Node X6:NC_02 is floating.
+WARNING: Node NC_14 is floating.
+WARNING: Node X7:NC_01 is floating.
+WARNING: Node X7:NC_02 is floating.
+WARNING: Node NC_16 is floating.
+WARNING: Node X8:NC_01 is floating.
+WARNING: Node X8:NC_02 is floating.
+WARNING: Node NC_18 is floating.
+WARNING: Node X9:NC_01 is floating.
+WARNING: Node X9:NC_02 is floating.
+WARNING: Node NC_20 is floating.
+WARNING: Node X10:NC_01 is floating.
+WARNING: Node X10:NC_02 is floating.
+WARNING: Node NC_22 is floating.
+WARNING: Node X11:NC_01 is floating.
+WARNING: Node X11:NC_02 is floating.
+WARNING: Node NC_24 is floating.
+WARNING: Node X12:NC_01 is floating.
+WARNING: Node X12:NC_02 is floating.
+WARNING: Node NC_26 is floating.
+WARNING: Node X13:NC_01 is floating.
+WARNING: Node X13:NC_02 is floating.
+WARNING: Node NC_28 is floating.
+WARNING: Node X14:NC_01 is floating.
+WARNING: Node X14:NC_02 is floating.
+WARNING: Node NC_30 is floating.
+WARNING: Node X15:NC_01 is floating.
+WARNING: Node X15:NC_02 is floating.
+WARNING: Node NC_32 is floating.
+WARNING: Node X16:NC_01 is floating.
+WARNING: Node X16:NC_02 is floating.
+WARNING: Node NC_34 is floating.
+WARNING: Node X17:NC_01 is floating.
+WARNING: Node X17:NC_02 is floating.
+
+WARNING: Less than two connections to node NC_02.  This node is used by M:X1:1.
+WARNING: Less than two connections to node X1:NC_01.  This node is used by M:X1:1.
+WARNING: Less than two connections to node NC_01.  This node is used by M:X1:2.
+WARNING: Less than two connections to node X1:NC_02.  This node is used by M:X1:2.
+WARNING: Less than two connections to node NC_04.  This node is used by M:X2:1.
+WARNING: Less than two connections to node X2:NC_01.  This node is used by M:X2:1.
+WARNING: Less than two connections to node NC_03.  This node is used by M:X2:2.
+WARNING: Less than two connections to node X2:NC_02.  This node is used by M:X2:2.
+WARNING: Less than two connections to node NC_06.  This node is used by M:X3:1.
+WARNING: Less than two connections to node X3:NC_01.  This node is used by M:X3:1.
+WARNING: Less than two connections to node NC_05.  This node is used by M:X3:2.
+WARNING: Less than two connections to node X3:NC_02.  This node is used by M:X3:2.
+WARNING: Less than two connections to node NC_08.  This node is used by M:X4:1.
+WARNING: Less than two connections to node X4:NC_01.  This node is used by M:X4:1.
+WARNING: Less than two connections to node NC_07.  This node is used by M:X4:2.
+WARNING: Less than two connections to node X4:NC_02.  This node is used by M:X4:2.
+WARNING: Less than two connections to node NC_10.  This node is used by M:X5:1.
+WARNING: Less than two connections to node X5:NC_01.  This node is used by M:X5:1.
+WARNING: Less than two connections to node NC_09.  This node is used by M:X5:2.
+WARNING: Less than two connections to node X5:NC_02.  This node is used by M:X5:2.
+WARNING: Less than two connections to node NC_12.  This node is used by M:X6:1.
+WARNING: Less than two connections to node X6:NC_01.  This node is used by M:X6:1.
+WARNING: Less than two connections to node NC_11.  This node is used by M:X6:2.
+WARNING: Less than two connections to node X6:NC_02.  This node is used by M:X6:2.
+WARNING: Less than two connections to node NC_14.  This node is used by M:X7:1.
+WARNING: Less than two connections to node X7:NC_01.  This node is used by M:X7:1.
+WARNING: Less than two connections to node NC_13.  This node is used by M:X7:2.
+WARNING: Less than two connections to node X7:NC_02.  This node is used by M:X7:2.
+WARNING: Less than two connections to node NC_16.  This node is used by M:X8:1.
+WARNING: Less than two connections to node X8:NC_01.  This node is used by M:X8:1.
+WARNING: Less than two connections to node NC_15.  This node is used by M:X8:2.
+WARNING: Less than two connections to node X8:NC_02.  This node is used by M:X8:2.
+WARNING: Less than two connections to node NC_18.  This node is used by M:X9:1.
+WARNING: Less than two connections to node X9:NC_01.  This node is used by M:X9:1.
+WARNING: Less than two connections to node NC_17.  This node is used by M:X9:2.
+WARNING: Less than two connections to node X9:NC_02.  This node is used by M:X9:2.
+WARNING: Less than two connections to node NC_20.  This node is used by M:X10:1.
+WARNING: Less than two connections to node X10:NC_01.  This node is used by M:X10:1.
+WARNING: Less than two connections to node NC_19.  This node is used by M:X10:2.
+WARNING: Less than two connections to node X10:NC_02.  This node is used by M:X10:2.
+WARNING: Less than two connections to node NC_22.  This node is used by M:X11:1.
+WARNING: Less than two connections to node X11:NC_01.  This node is used by M:X11:1.
+WARNING: Less than two connections to node NC_21.  This node is used by M:X11:2.
+WARNING: Less than two connections to node X11:NC_02.  This node is used by M:X11:2.
+WARNING: Less than two connections to node NC_24.  This node is used by M:X12:1.
+WARNING: Less than two connections to node X12:NC_01.  This node is used by M:X12:1.
+WARNING: Less than two connections to node NC_23.  This node is used by M:X12:2.
+WARNING: Less than two connections to node X12:NC_02.  This node is used by M:X12:2.
+WARNING: Less than two connections to node NC_26.  This node is used by M:X13:1.
+WARNING: Less than two connections to node X13:NC_01.  This node is used by M:X13:1.
+WARNING: Less than two connections to node NC_25.  This node is used by M:X13:2.
+WARNING: Less than two connections to node X13:NC_02.  This node is used by M:X13:2.
+WARNING: Less than two connections to node NC_28.  This node is used by M:X14:1.
+WARNING: Less than two connections to node X14:NC_01.  This node is used by M:X14:1.
+WARNING: Less than two connections to node NC_27.  This node is used by M:X14:2.
+WARNING: Less than two connections to node X14:NC_02.  This node is used by M:X14:2.
+WARNING: Less than two connections to node NC_30.  This node is used by M:X15:1.
+WARNING: Less than two connections to node X15:NC_01.  This node is used by M:X15:1.
+WARNING: Less than two connections to node NC_29.  This node is used by M:X15:2.
+WARNING: Less than two connections to node X15:NC_02.  This node is used by M:X15:2.
+WARNING: Less than two connections to node NC_32.  This node is used by M:X16:1.
+WARNING: Less than two connections to node X16:NC_01.  This node is used by M:X16:1.
+WARNING: Less than two connections to node NC_31.  This node is used by M:X16:2.
+WARNING: Less than two connections to node X16:NC_02.  This node is used by M:X16:2.
+WARNING: Less than two connections to node NC_34.  This node is used by M:X17:1.
+WARNING: Less than two connections to node X17:NC_01.  This node is used by M:X17:1.
+WARNING: Less than two connections to node NC_33.  This node is used by M:X17:2.
+WARNING: Less than two connections to node X17:NC_02.  This node is used by M:X17:2.
+WARNING: Less than two connections to node VDD.  This node is used by VDD.
+Per .tran options, skipping operating point for transient analysis.
+
+Date: Tue May 11 12:07:22 2021
+Total elapsed time: 0.614 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2082
+traniter = 2082
+tranpoints = 1042
+accept = 1042
+rejected = 0
+matrix size = 223
+fillins = 164
+solver = Normal
+Matrix Compiler1: 52.72 KB object code size  17.9/10.3/[6.7]
+Matrix Compiler2: 29.85 KB object code size  4.3/4.5/[3.2]
+
+
